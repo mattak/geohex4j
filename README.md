@@ -1,6 +1,7 @@
 # geohex4j
 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.geohex.geohex4j/geohex4j/badge.svg)](https://maven-badges.herokuapp.com/maven-central/cz.jirutka.rsql/rsql-parser)
+[![Travis](https://img.shields.io/travis/chsh/geohex4j.svg)](https://img.shields.io/travis/chsh/geohex4j.svg)
 
 GeoHex for Java
 
